@@ -1,1 +1,1 @@
-# Disease-prediction
+# Disease prediction based on symptoms
